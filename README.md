@@ -8,7 +8,7 @@ I would like my writing to be available for reading in 200 years.  I have no ide
 
 The canonical version of this archive while I am alive is at:
 
-`https://github.com/connectedblue/writing-archive`
+[https://github.com/connectedblue/writing-archive](https://github.com/connectedblue/writing-archive)
 
 I will maintain a list of other places where the content is placed as I create them.
 
